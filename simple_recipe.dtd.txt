@@ -1,0 +1,8 @@
+<1ELEMENT list (recipet)>
+<!ELEMENT recipe(author,recipe_name,meal,ingridents,directions)>
+<!ELEMENT author(#PCDATA)>
+<!ELEMENT recipe_name(#PCDATA)>
+<!ELEMENT meal (#PCDATA)>
+<!ELEMENT ingridents(#PCDATA)>
+<!ELEMENT item(#PCDATA)>
+<!ELEMENT directions(#PCDATA)>

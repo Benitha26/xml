@@ -1,0 +1,19 @@
+catlog{
+    background-color: white;
+
+}
+TITLE,ARTIST,COUNTRY,COMPANY,PRICE,YEAR{
+    font-size: 25px;
+    display: block;
+    color: blue;
+    margin-left: 50px;
+}
+CD{
+    display: block;
+    border: 10px solid orange;
+    position:relative;
+    text-align: center;
+    float:left;
+    background-position: center;
+
+}

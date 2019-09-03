@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="empstyle.css"?>
+<!DOCTYPE address
+[                   
+<!ELEMENT address (name,company,phone)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+]>
+<address>
+    <name>raj</name>
+    <company>quinnox</company>
+    <phone>12345678</phone>
+    <city>bangalore</city> 
+</address>
